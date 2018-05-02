@@ -1,0 +1,11 @@
+D:\application\ConsoleApp1\ObserableCollection\bin\Debug\netcoreapp2.0\ObserableCollection.deps.json
+D:\application\ConsoleApp1\ObserableCollection\bin\Debug\netcoreapp2.0\ObserableCollection.runtimeconfig.json
+D:\application\ConsoleApp1\ObserableCollection\bin\Debug\netcoreapp2.0\ObserableCollection.runtimeconfig.dev.json
+D:\application\ConsoleApp1\ObserableCollection\bin\Debug\netcoreapp2.0\ObserableCollection.dll
+D:\application\ConsoleApp1\ObserableCollection\obj\Debug\netcoreapp2.0\ObserableCollection.csprojResolveAssemblyReference.cache
+D:\application\ConsoleApp1\ObserableCollection\obj\Debug\netcoreapp2.0\ObserableCollection.csproj.CoreCompileInputs.cache
+D:\application\ConsoleApp1\ObserableCollection\obj\Debug\netcoreapp2.0\ObserableCollection.AssemblyInfoInputs.cache
+D:\application\ConsoleApp1\ObserableCollection\obj\Debug\netcoreapp2.0\ObserableCollection.AssemblyInfo.cs
+D:\application\ConsoleApp1\ObserableCollection\bin\Debug\netcoreapp2.0\ObserableCollection.pdb
+D:\application\ConsoleApp1\ObserableCollection\obj\Debug\netcoreapp2.0\ObserableCollection.dll
+D:\application\ConsoleApp1\ObserableCollection\obj\Debug\netcoreapp2.0\ObserableCollection.pdb

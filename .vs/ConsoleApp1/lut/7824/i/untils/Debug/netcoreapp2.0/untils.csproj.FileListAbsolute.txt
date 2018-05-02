@@ -1,0 +1,3 @@
+D:\application\ConsoleApp1\.vs\ConsoleApp1\lut\0\i\untils\Debug\netcoreapp2.0\untils.csproj.CoreCompileInputs.cache
+D:\application\ConsoleApp1\.vs\ConsoleApp1\lut\0\i\untils\Debug\netcoreapp2.0\untils.AssemblyInfoInputs.cache
+D:\application\ConsoleApp1\.vs\ConsoleApp1\lut\0\i\untils\Debug\netcoreapp2.0\untils.AssemblyInfo.cs

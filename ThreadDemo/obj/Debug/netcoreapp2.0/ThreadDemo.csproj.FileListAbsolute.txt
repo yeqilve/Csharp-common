@@ -1,0 +1,11 @@
+D:\application\ConsoleApp1\ThreadDemo\bin\Debug\netcoreapp2.0\ThreadDemo.deps.json
+D:\application\ConsoleApp1\ThreadDemo\bin\Debug\netcoreapp2.0\ThreadDemo.runtimeconfig.json
+D:\application\ConsoleApp1\ThreadDemo\bin\Debug\netcoreapp2.0\ThreadDemo.runtimeconfig.dev.json
+D:\application\ConsoleApp1\ThreadDemo\bin\Debug\netcoreapp2.0\ThreadDemo.dll
+D:\application\ConsoleApp1\ThreadDemo\bin\Debug\netcoreapp2.0\ThreadDemo.pdb
+D:\application\ConsoleApp1\ThreadDemo\obj\Debug\netcoreapp2.0\ThreadDemo.csprojResolveAssemblyReference.cache
+D:\application\ConsoleApp1\ThreadDemo\obj\Debug\netcoreapp2.0\ThreadDemo.csproj.CoreCompileInputs.cache
+D:\application\ConsoleApp1\ThreadDemo\obj\Debug\netcoreapp2.0\ThreadDemo.AssemblyInfoInputs.cache
+D:\application\ConsoleApp1\ThreadDemo\obj\Debug\netcoreapp2.0\ThreadDemo.AssemblyInfo.cs
+D:\application\ConsoleApp1\ThreadDemo\obj\Debug\netcoreapp2.0\ThreadDemo.dll
+D:\application\ConsoleApp1\ThreadDemo\obj\Debug\netcoreapp2.0\ThreadDemo.pdb

@@ -1,0 +1,11 @@
+D:\application\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp2.0\Tasks.deps.json
+D:\application\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp2.0\Tasks.runtimeconfig.json
+D:\application\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp2.0\Tasks.runtimeconfig.dev.json
+D:\application\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp2.0\Tasks.dll
+D:\application\ConsoleApp1\ConsoleApp2\bin\Debug\netcoreapp2.0\Tasks.pdb
+D:\application\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp2.0\Tasks.csprojResolveAssemblyReference.cache
+D:\application\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp2.0\Tasks.csproj.CoreCompileInputs.cache
+D:\application\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp2.0\Tasks.AssemblyInfoInputs.cache
+D:\application\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp2.0\Tasks.AssemblyInfo.cs
+D:\application\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp2.0\Tasks.dll
+D:\application\ConsoleApp1\ConsoleApp2\obj\Debug\netcoreapp2.0\Tasks.pdb

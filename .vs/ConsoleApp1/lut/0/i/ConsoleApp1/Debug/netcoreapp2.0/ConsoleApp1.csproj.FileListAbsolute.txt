@@ -1,0 +1,10 @@
+D:\application\ConsoleApp1\.vs\ConsoleApp1\lut\0\b\ConsoleApp1\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+D:\application\ConsoleApp1\.vs\ConsoleApp1\lut\0\b\ConsoleApp1\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+D:\application\ConsoleApp1\.vs\ConsoleApp1\lut\0\b\ConsoleApp1\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+D:\application\ConsoleApp1\.vs\ConsoleApp1\lut\0\b\ConsoleApp1\Debug\netcoreapp2.0\ConsoleApp1.dll
+D:\application\ConsoleApp1\.vs\ConsoleApp1\lut\0\b\ConsoleApp1\Debug\netcoreapp2.0\ConsoleApp1.pdb
+D:\application\ConsoleApp1\.vs\ConsoleApp1\lut\0\i\ConsoleApp1\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\application\ConsoleApp1\.vs\ConsoleApp1\lut\0\i\ConsoleApp1\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\application\ConsoleApp1\.vs\ConsoleApp1\lut\0\i\ConsoleApp1\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+D:\application\ConsoleApp1\.vs\ConsoleApp1\lut\0\i\ConsoleApp1\Debug\netcoreapp2.0\ConsoleApp1.dll
+D:\application\ConsoleApp1\.vs\ConsoleApp1\lut\0\i\ConsoleApp1\Debug\netcoreapp2.0\ConsoleApp1.pdb

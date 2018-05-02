@@ -1,0 +1,6 @@
+D:\application\ConsoleApp1\untils\bin\Debug\netcoreapp2.0\untils.deps.json
+D:\application\ConsoleApp1\untils\bin\Debug\netcoreapp2.0\untils.dll
+D:\application\ConsoleApp1\untils\obj\Debug\netcoreapp2.0\untils.csprojResolveAssemblyReference.cache
+D:\application\ConsoleApp1\untils\obj\Debug\netcoreapp2.0\untils.csproj.CoreCompileInputs.cache
+D:\application\ConsoleApp1\untils\obj\Debug\netcoreapp2.0\untils.AssemblyInfoInputs.cache
+D:\application\ConsoleApp1\untils\obj\Debug\netcoreapp2.0\untils.AssemblyInfo.cs
